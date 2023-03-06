@@ -25,7 +25,7 @@ function About() {
 
           <p>I am quitely confident, naturally curious, and perpetually working on improving my skills with one design problem at a time</p>
 
-          <p>If I need to define myself in one sentence that would be a passionate worker with high team spirit. </p>
+          <p>If I need to define myself in one sentence that would be a creative, detail-oriented, and versatile minded individual. I like to think of myself as one who exhibit team-oriented personality. </p>
         </div>
 
         <div className="stage-cube-cont">
